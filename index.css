@@ -1,0 +1,12 @@
+canvas{
+  border: 1px solid red;
+  position: absolute;
+}
+#canvasWrapper{  
+  height: 440px;
+  /*width: 900px; */
+}
+
+#buttonWrapper{   
+    position: absolute'
+}
